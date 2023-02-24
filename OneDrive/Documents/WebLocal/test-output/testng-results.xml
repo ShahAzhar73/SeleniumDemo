@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-24T18:36:55 IST" name="Default suite" finished-at="2023-02-24T18:37:24 IST" duration-ms="28787">
+    <groups>
+    </groups>
+    <test started-at="2023-02-24T18:36:55 IST" name="Default test" finished-at="2023-02-24T18:37:24 IST" duration-ms="28787">
+      <class name="herokuapp.UploadFile">
+        <test-method is-config="true" signature="prerequisite()[pri:0, instance:herokuapp.UploadFile@33bc72d1]" started-at="2023-02-24T18:36:55 IST" name="prerequisite" finished-at="2023-02-24T18:36:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisite -->
+        <test-method signature="seleniumUploadFile()[pri:0, instance:herokuapp.UploadFile@33bc72d1]" started-at="2023-02-24T18:36:55 IST" name="seleniumUploadFile" finished-at="2023-02-24T18:37:24 IST" duration-ms="28771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumUploadFile -->
+        <test-method is-config="true" signature="postrequisite()[pri:0, instance:herokuapp.UploadFile@33bc72d1]" started-at="2023-02-24T18:37:24 IST" name="postrequisite" finished-at="2023-02-24T18:37:49 IST" duration-ms="25013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postrequisite -->
+      </class> <!-- herokuapp.UploadFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
